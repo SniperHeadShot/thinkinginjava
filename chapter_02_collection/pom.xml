@@ -13,6 +13,7 @@
 
     <modules>
         <module>collect_01_list</module>
+        <module>collect_02_map</module>
     </modules>
 
     <dependencies>

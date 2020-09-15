@@ -15,6 +15,8 @@ public class CopyOnWriteArrayListApi {
         copyOnWriteArrayList.add("str1");
         copyOnWriteArrayList.add("str2");
 
+        copyOnWriteArrayList.get(10);
+
         copyOnWriteArrayList.remove(1);
 
         for (String s : copyOnWriteArrayList) {
